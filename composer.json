@@ -1,14 +1,14 @@
 {
-    "name": "fabpot/goutte",
+    "name": "armonia-tech/goutte",
     "type": "application",
     "description": "A simple PHP Web Scraper",
     "keywords": ["scraper"],
-    "homepage": "https://github.com/FriendsOfPHP/Goutte",
+    "homepage": "https://github.com/armonia-tech/Goutte",
     "license": "MIT",
     "authors": [
         {
-            "name": "Fabien Potencier",
-            "email": "fabien@symfony.com"
+            "name": "Armonia Tech",
+            "email": "huanyong.chan@armonia-tech.com"
         }
     ],
     "require": {

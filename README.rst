@@ -1,3 +1,15 @@
+This is Armonia Tech fork project to solve mobile user agent issue.
+===================================================================
+Installation: 
+
+.. code-block:: bash
+
+    composer require armonia-tech/goutte
+
+Usage:
+
+Refer below
+
 Goutte, a simple PHP Web Scraper
 ================================
 
